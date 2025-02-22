@@ -1,4 +1,4 @@
-name: dstoolbox
+name: project-env
 channels:
   - conda-forge
   - https://repo.anaconda.com/pkgs/main
@@ -59,4 +59,6 @@ dependencies:
   - wcwidth=0.2.13
   - zeromq=4.3.5
   - zipp=3.21.0
+  - scikit-learn
+  - jupyterlab
 prefix: C:\Users\hyjac\miniconda3\envs\dstoolbox
