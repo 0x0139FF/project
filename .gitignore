@@ -1,3 +1,14 @@
 **/*.log
 .DS_Store
+# Logs
+*.log
 .ipynb_checkpoints
+# Conda
+*.conda
+*.env
+# MacOS
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycahe__
